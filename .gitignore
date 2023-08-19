@@ -1,4 +1,6 @@
-node_modules/
 .cache/
+.env
+data
+node_modules/
 public
 src/gatsby-types.d.ts
